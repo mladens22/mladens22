@@ -10,8 +10,8 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=mladens22)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Connect with me:
-[![website](./img/instagram-light.svg)](https://instagram.com/mladens30)
-[![website](./img/instagram-dark.svg)](https://instagram.com/mladens30)
+[![website](./img/instagram-light.svg)](https://instagram.com/mladens30#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/mladens30#gh-dark-mode-only)
 
 ### Languages and Tools:
 
