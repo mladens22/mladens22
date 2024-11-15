@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙌 About Me:
 🔭 I’m currently working on Wordpress & Frontend projects<br>👯 I’m looking to collaborate with other content creators<br>🌱I’m currently learning no-code web design tools<br>💬 Ask me about<br>⚡ Fun fact: I love to play chess and tennis
 
 
