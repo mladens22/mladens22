@@ -7,10 +7,12 @@
 - ⚡ Fun fact: I love to play chess and tennis
 - 💬 Ask me about anything you wish
 
-- [![trophy](https://github-profile-trophy.vercel.app/?username=mladens22)](https://github.com/ryo-ma/github-profile-trophy)
+## Trophies 🙌
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=mladens22)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Connect with me:
-[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" style="padding-right:10px;" />](https://instagram.com/mladens30)
+[<img align="left" alt=" Instagram" width="20px" src="https://camo.githubusercontent.com/81d4e35dffabab3115dab75ffe03267aabb0753445682151944062cf0e7f8cac/68747470733a2f2f73696d706c6569636f6e732e6e6f772e73682f696e7374616772616d2f343935663765" data-canonical-src="https://simpleicons.now.sh/instagram/495f7e" style="max-width: 100%;">](https://instagram.com/mladens30)
 
 ### Languages and Tools:
 
