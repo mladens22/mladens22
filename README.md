@@ -10,8 +10,8 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=mladens22)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Connect with me:
-[![website](./img/instagram-light.svg)](https://instagram.com/mladens30#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/mladens30#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/mladens30)
+[![website](./img/instagram-dark.svg)](https://instagram.com/mladens30)
 
 ### Languages and Tools:
 
@@ -32,15 +32,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mladens22&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-
 
 
 <!--
