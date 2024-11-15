@@ -10,7 +10,7 @@
 - [![trophy](https://github-profile-trophy.vercel.app/?username=mladens22)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Connect with me:
-(https://instagram.com/mladens30#gh-light-mode-only)
+https://instagram.com/mladens30
 
 ### Languages and Tools:
 
@@ -25,13 +25,6 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 
-<br />
-<br />
-
----
-
 
 <!--
 **mladens22/mladens22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mladens22)](https://github.com/ryo-ma/github-profile-trophy)
