@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🌱 I’m currently learning no-code web design tools
 - ⚡ Fun fact: I love to play chess and tennis
-- 💬 Ask me about anything you wish
 
 ### Connect with me:
 [<img align="left" alt="Instagram" width="20px" src="https://camo.githubusercontent.com/81d4e35dffabab3115dab75ffe03267aabb0753445682151944062cf0e7f8cac/68747470733a2f2f73696d706c6569636f6e732e6e6f772e73682f696e7374616772616d2f343935663765" data-canonical-src="https://simpleicons.now.sh/instagram/495f7e" style="max-width: 100%;">](https://instagram.com/mladens30)
